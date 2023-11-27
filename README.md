@@ -1,6 +1,6 @@
 # java-spring-to-do-list
 
-API para gerenciamento de tarefas(to do - list), podendo criar, listar, atualizar e deletar as tarefas.
+API para gerenciamento de tarefas(to do - list), podendo criar, listar, atualizar e deletar as tarefas.  
 
 ## Tecnologias
 * Spring boot
